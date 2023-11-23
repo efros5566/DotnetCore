@@ -1,3 +1,3 @@
 # DotnetCore
-Events-first HW at class
-Project-first project at class
+1.Events-first HW at class
+2.Project-first project at class
